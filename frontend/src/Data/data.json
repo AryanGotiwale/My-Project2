@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Aryan Gotiwale",
+    "photo": "https://via.placeholder.com/200",
+    "description": "Frontend Developer",
+    "location": {
+      "lat": 18.5204,
+      "lng": 73.8567
+    }
+  },
+  {
+    "id": 2,
+    "name": "Riya Sharma",
+    "photo": "https://via.placeholder.com/200",
+    "description": "UI/UX Designer",
+    "location": {
+      "lat": 28.6139,
+      "lng": 77.209
+    }
+  }
+]
