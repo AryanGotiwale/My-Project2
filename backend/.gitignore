@@ -4,9 +4,9 @@ node_modules/
 # Environment files
 .env
 
-# Build output
-dist/
+# Logs
+logs/
+*.log
 
-# OS / Editor specific
+# Other
 .DS_Store
-.vscode/
