@@ -27,7 +27,7 @@ Mobile-friendly layout using Tailwind CSS.
 Loading/Error Handling
 Basic feedback included for network requests.
 
-🧠 Technologies Used
+# Technologies Used
 Frontend: React, Tailwind CSS, Axios
 
 Backend: Node.js, Express.js
